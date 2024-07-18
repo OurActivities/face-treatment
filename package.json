@@ -4,10 +4,10 @@
   "main": "dist/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ouractivities/dress"
+    "url": "https://github.com/ouractivities/face-treatment"
   },
   "bugs": {
-    "url": "https://github.com/ouractivities/dress/issues"
+    "url": "https://github.com/ouractivities/face-treatment/issues"
   },
   "typings": "dist/index.d.ts",
   "files": [
@@ -45,16 +45,16 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "@ouractivities/dress",
+  "name": "@ouractivities/face-treatment",
   "author": "Willem van Heemstra",
-  "module": "dist/dress.esm.js",
+  "module": "dist/face-treatment.esm.js",
   "size-limit": [
     {
-      "path": "dist/dress.cjs.production.min.js",
+      "path": "dist/face-treatment.cjs.production.min.js",
       "limit": "10 KB"
     },
     {
-      "path": "dist/dress.esm.js",
+      "path": "dist/face-treatment.esm.js",
       "limit": "10 KB"
     }
   ],
